@@ -1,0 +1,7 @@
+*.a
+*.order
+*.cmd
+*.o
+*__pycache__
+*.png
+
